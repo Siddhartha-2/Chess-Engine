@@ -1,0 +1,1 @@
+This repository contains Chess engine implemented in C++.
